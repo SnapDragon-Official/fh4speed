@@ -6,4 +6,4 @@
 - Sunucuyu yeniden başlatın.
 
 ### Aç/Kapat
-**F10** - Hız göstergesini açar/kapatır (**client.lua** 49.cu satırdan tuşu değiştirebilirsiniz)
+- **F10** - Hız göstergesini açar/kapatır (**client.lua** 49.cu satırdan tuşu değiştirebilirsiniz)
